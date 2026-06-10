@@ -1,0 +1,1047 @@
+
+[24-May-2026 13:25:46 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'id_usuario' cannot be null in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php:23
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php(23): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\src\vistasdelprograma\login_usuario_be.php(183): registrar_bitacora(Object(mysqli), 0, 2, 'LOGIN_SUCCESS', 'Inicio de sesi\xC3...')
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php on line 23
+[24-May-2026 13:25:57 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'id_usuario' cannot be null in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php:23
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php(23): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\src\vistasdelprograma\login_usuario_be.php(183): registrar_bitacora(Object(mysqli), 0, 2, 'LOGIN_SUCCESS', 'Inicio de sesi\xC3...')
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php on line 23
+[24-May-2026 13:27:39 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'id_usuario' cannot be null in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php:23
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php(23): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\src\vistasdelprograma\login_usuario_be.php(257): registrar_bitacora(Object(mysqli), 0, 2, 'LOGIN_FAIL', 'Intento de logi...')
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\bitacora_helpers.php on line 23
+[24-May-2026 15:21:48 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:21:48 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:22:35 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:22:41 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:24:18 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:24:23 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:24:23 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:24:32 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:24:57 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:33:05 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:33:05 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:38:40 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:38:40 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:38:44 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:38:49 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:38:49 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:40:41 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:40:48 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:46:46 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:46:46 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:46:53 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:46:53 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:47:29 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:47:30 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:51:22 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:51:22 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:51:56 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:52:00 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:52:00 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:52:40 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:52:43 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:52:43 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:52:54 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:52:54 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:36
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(36): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(179): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 36
+[24-May-2026 15:54:39 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 37
+[24-May-2026 15:54:39 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:37
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(37): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(180): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 37
+[24-May-2026 15:54:42 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 15:54:45 America/Tegucigalpa] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 37
+[24-May-2026 15:54:45 America/Tegucigalpa] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for mysql.hostinger.com failed: Host desconocido.  in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:37
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(37): mysqli_connect('mysql.hostinger...', 'u229022587_user...', 'Implementacion2...', 'u229022587_bdGY...', 3306)
+#1 C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php(180): get_db_connection()
+#2 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 37
+[24-May-2026 16:06:50 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 16:06:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 16:06:57 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 16:09:54 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 16:16:47 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 16:16:51 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 16:16:56 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 16:16:59 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 16:18:48 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 19:27:53 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 19:27:59 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 19:37:50 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 19:37:54 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 19:39:54 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 19:40:00 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php:185
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\usuarios_registrados.php on line 185
+[24-May-2026 19:56:16 America/Tegucigalpa] PHP Fatal error:  Uncaught Error: Call to undefined function ensure_fecha_creacion_column() in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php:132
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\Usuarios.php on line 132
+[24-May-2026 20:18:18 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[24-May-2026 20:18:18 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779675497703
+    [_] => 1779675496301
+)
+
+[24-May-2026 20:18:18 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[24-May-2026 20:18:18 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[24-May-2026 20:18:19 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[24-May-2026 20:18:19 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[24-May-2026 20:18:19 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[24-May-2026 20:18:19 America/Tegucigalpa] Total de registros (count): 5
+[24-May-2026 20:18:19 America/Tegucigalpa] === RESULTADO FINAL ===
+[24-May-2026 20:18:19 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[24-May-2026 20:18:19 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[24-May-2026 20:18:19 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[24-May-2026 20:18:20 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":1,"nombre_plan":"Diario","dias":1,"precio_base":70},{"id_plan":2,"nombre_plan":"Semanal","dias":7,"precio_base":400},{"id_plan":3,"nombre_plan":"Quincenal","dias":15,"precio_base":500},{"id_plan":4,"nombre_plan":"Mensual","dias":30,"precio_base":700},{"id_plan":7,"nombre_plan":"Bimestral","dias":60,"precio_base":1000},{"id_plan":8,"nombre_plan":"Bono","dias":60,"precio_base":800},{"id_plan":5,"nombre_plan":"Semestral","dias":180,"precio_base":3500},{"id_plan":6,"nombre_plan":"Anual","dias":365,"precio_base":7000}]
+[24-May-2026 21:03:19 America/Tegucigalpa] Periodos Action: add
+[24-May-2026 21:03:19 America/Tegucigalpa] periodos_actions.php: Iniciando creación de período
+[24-May-2026 21:03:19 America/Tegucigalpa] periodos_actions.php: Datos recibidos - nombre: MCAFEE, dias: 30, precio: 1000
+[24-May-2026 21:03:19 America/Tegucigalpa] periodos_actions.php: Verificando si existe período con nombre: MCAFEE
+[24-May-2026 21:03:19 America/Tegucigalpa] periodos_actions.php: Insertando nuevo período
+[24-May-2026 21:03:20 America/Tegucigalpa] periodos_actions.php: Período insertado con ID: 0
+[24-May-2026 21:04:52 America/Tegucigalpa] Periodos Action: add
+[24-May-2026 21:04:52 America/Tegucigalpa] periodos_actions.php: Iniciando creación de período
+[24-May-2026 21:04:52 America/Tegucigalpa] periodos_actions.php: Datos recibidos - nombre: BITDEFENDER, dias: 30, precio: 100
+[24-May-2026 21:04:52 America/Tegucigalpa] periodos_actions.php: Verificando si existe período con nombre: BITDEFENDER
+[24-May-2026 21:04:52 America/Tegucigalpa] periodos_actions.php: Insertando nuevo período
+[24-May-2026 21:04:52 America/Tegucigalpa] periodos_actions.php: Período insertado con ID: 0
+[24-May-2026 21:06:53 America/Tegucigalpa] Periodos Action: add
+[24-May-2026 21:06:53 America/Tegucigalpa] periodos_actions.php: Iniciando creación de período
+[24-May-2026 21:06:53 America/Tegucigalpa] periodos_actions.php: Datos recibidos - nombre: KASPERSKY, dias: 30, precio: 1000
+[24-May-2026 21:06:53 America/Tegucigalpa] periodos_actions.php: Verificando si existe período con nombre: KASPERSKY
+[24-May-2026 21:06:53 America/Tegucigalpa] periodos_actions.php: Insertando nuevo período
+[24-May-2026 21:06:53 America/Tegucigalpa] periodos_actions.php: Período insertado con ID: 0
+[24-May-2026 21:07:01 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[24-May-2026 21:07:01 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779678421397
+    [_] => 1779678421174
+)
+
+[24-May-2026 21:07:01 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[24-May-2026 21:07:01 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[24-May-2026 21:07:01 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[24-May-2026 21:07:01 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[24-May-2026 21:07:01 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[24-May-2026 21:07:01 America/Tegucigalpa] Total de registros (count): 5
+[24-May-2026 21:07:01 America/Tegucigalpa] === RESULTADO FINAL ===
+[24-May-2026 21:07:01 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[24-May-2026 21:07:01 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[24-May-2026 21:07:01 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[24-May-2026 21:07:02 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":4,"nombre_plan":"Mensual","dias":30,"precio_base":700},{"id_plan":0,"nombre_plan":"Mcafee","dias":30,"precio_base":1000},{"id_plan":0,"nombre_plan":"Bitdefender","dias":30,"precio_base":100},{"id_plan":0,"nombre_plan":"Kaspersky","dias":30,"precio_base":1000},{"id_plan":7,"nombre_plan":"Bimestral","dias":60,"precio_base":1000},{"id_plan":5,"nombre_plan":"Semestral","dias":180,"precio_base":3500},{"id_plan":6,"nombre_plan":"Anual","dias":365,"precio_base":7000}]
+[24-May-2026 21:41:40 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[24-May-2026 21:41:40 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779680500406
+    [_] => 1779680500055
+)
+
+[24-May-2026 21:41:40 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[24-May-2026 21:41:40 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[24-May-2026 21:41:40 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[24-May-2026 21:41:40 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[24-May-2026 21:41:40 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[24-May-2026 21:41:40 America/Tegucigalpa] Total de registros (count): 5
+[24-May-2026 21:41:40 America/Tegucigalpa] === RESULTADO FINAL ===
+[24-May-2026 21:41:41 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[24-May-2026 21:41:41 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[24-May-2026 21:41:41 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[24-May-2026 21:41:41 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":0,"nombre_plan":"Mcafee","dias":30,"precio_base":1000},{"id_plan":0,"nombre_plan":"Bitdefender","dias":30,"precio_base":100},{"id_plan":0,"nombre_plan":"Kaspersky","dias":30,"precio_base":1000}]
+[24-May-2026 21:49:02 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":0,"nombre_plan":"Mcafee","dias":30,"precio_base":1000},{"id_plan":0,"nombre_plan":"Bitdefender","dias":30,"precio_base":100},{"id_plan":0,"nombre_plan":"Kaspersky","dias":30,"precio_base":1000}]
+[24-May-2026 21:49:03 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[24-May-2026 21:49:03 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779680941598
+    [_] => 1779680940778
+)
+
+[24-May-2026 21:49:03 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[24-May-2026 21:49:03 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[24-May-2026 21:49:03 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[24-May-2026 21:49:03 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[24-May-2026 21:49:03 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[24-May-2026 21:49:03 America/Tegucigalpa] Total de registros (count): 5
+[24-May-2026 21:49:03 America/Tegucigalpa] === RESULTADO FINAL ===
+[24-May-2026 21:49:03 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[24-May-2026 21:49:03 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[24-May-2026 21:49:03 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 12:42:19 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 12:42:19 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779734538614
+    [_] => 1779734538224
+)
+
+[25-May-2026 12:42:19 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 12:42:19 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 12:42:19 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 12:42:19 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 12:42:19 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[25-May-2026 12:42:19 America/Tegucigalpa] Total de registros (count): 5
+[25-May-2026 12:42:19 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 12:42:19 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 12:42:19 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[25-May-2026 12:42:19 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 12:42:19 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":0,"nombre_plan":"Mcafee","dias":30,"precio_base":1000},{"id_plan":0,"nombre_plan":"Bitdefender","dias":30,"precio_base":100},{"id_plan":0,"nombre_plan":"Kaspersky","dias":30,"precio_base":1000}]
+[25-May-2026 13:18:31 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 13:18:31 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779736711065
+    [_] => 1779736710899
+)
+
+[25-May-2026 13:18:31 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 13:18:31 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 13:18:31 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 13:18:31 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 13:18:31 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 5
+[25-May-2026 13:18:31 America/Tegucigalpa] Total de registros (count): 5
+[25-May-2026 13:18:31 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 13:18:31 America/Tegucigalpa] Resultado paginación: {"total":5,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 13:18:31 America/Tegucigalpa] Cantidad de registros devueltos: 5
+[25-May-2026 13:18:31 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 13:18:32 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":0,"nombre_plan":"Mcafee","dias":30,"precio_base":1000},{"id_plan":0,"nombre_plan":"Bitdefender","dias":30,"precio_base":100},{"id_plan":0,"nombre_plan":"Kaspersky","dias":30,"precio_base":1000}]
+[25-May-2026 14:07:36 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [antivirus] => 0
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 30000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:07:54 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => BIMESTRAL
+    [antivirus] => 0
+    [duracion_dias] => 60
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-07-24
+    [precio] => 6000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:11:53 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [plan] => 0
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 30000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:43:01 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [plan] => 1
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 15000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:47:26 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [plan] => 2
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 18000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:52:06 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [plan] => 2
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 18000.00
+    [observaciones] => 
+)
+
+[25-May-2026 14:59:41 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => BIMESTRAL
+    [plan] => 1
+    [duracion_dias] => 60
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-07-24
+    [precio] => 30000.00
+    [observaciones] => 
+)
+
+[25-May-2026 15:01:46 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => auditoressistematicos@gmail.com
+    [correo_electronico_hidden] => auditoressistematicos@gmail.com
+    [nombre_cliente] => RUBEN GUERRERO
+    [periodo_opcion] => MENSUAL
+    [id_plan] => 1
+    [duracion_dias] => 30
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2026-06-24
+    [precio] => 15000.00
+    [observaciones] => 
+)
+
+[25-May-2026 15:01:46 America/Tegucigalpa] DEBUG: Parámetro MAX_SUSCRIPCIONES_POR_CLIENTE encontrado con valor: 1
+[25-May-2026 15:01:46 America/Tegucigalpa] DEBUG ADD: id_cliente = 8, max_permitidas = 1
+[25-May-2026 15:01:46 America/Tegucigalpa] DEBUG ADD: Cliente 8 tiene 0 suscripciones en total
+[25-May-2026 15:01:46 America/Tegucigalpa] DEBUG ADD: Detalles: 
+[25-May-2026 15:01:46 America/Tegucigalpa] Plan recibido como ID: 1
+[25-May-2026 15:01:46 America/Tegucigalpa] Nombre del plan obtenido de tbl_periodo (formato título): 'Mcafee'
+[25-May-2026 15:01:46 America/Tegucigalpa] Suscripción - Plan: Mcafee, Precio frontend: 15000, Precio final: 15000, Duración frontend: 30, Duración final: 30
+[25-May-2026 15:01:47 America/Tegucigalpa] Registro en tbl_plan actualizado - ID: 1, Nombre: Mcafee, Éxito: SI
+[25-May-2026 15:01:47 America/Tegucigalpa] Usando fecha_fin del frontend: 2026-06-24
+[25-May-2026 16:15:33 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 16:15:33 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779747333573
+    [_] => 1779747333331
+)
+
+[25-May-2026 16:15:33 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 16:15:33 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 16:15:33 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 16:15:33 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 16:15:33 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 1
+[25-May-2026 16:15:33 America/Tegucigalpa] Total de registros (count): 1
+[25-May-2026 16:15:33 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 16:15:33 America/Tegucigalpa] Resultado paginación: {"total":1,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 16:15:33 America/Tegucigalpa] Cantidad de registros devueltos: 1
+[25-May-2026 16:15:33 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 16:15:34 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":1,"nombre_plan":"Mcafee","dias":30,"precio_base":500},{"id_plan":2,"nombre_plan":"Bitdefender","dias":30,"precio_base":600},{"id_plan":3,"nombre_plan":"Kaspersky","dias":30,"precio_base":0}]
+[25-May-2026 16:16:14 America/Tegucigalpa] POST data recibido: Array
+(
+    [correo_electronico] => juan@gmail.com
+    [correo_electronico_hidden] => juan@gmail.com
+    [nombre_cliente] => JUAN LOBO
+    [periodo_opcion] => ANUAL
+    [id_plan] => 2
+    [duracion_dias] => 360
+    [fecha_inicio] => 2026-05-25
+    [fecha_fin] => 2027-05-20
+    [precio] => 216000.00
+    [observaciones] => 
+)
+
+[25-May-2026 16:16:14 America/Tegucigalpa] DEBUG: Parámetro MAX_SUSCRIPCIONES_POR_CLIENTE encontrado con valor: 1
+[25-May-2026 16:16:14 America/Tegucigalpa] DEBUG ADD: id_cliente = 4, max_permitidas = 1
+[25-May-2026 16:16:14 America/Tegucigalpa] DEBUG ADD: Cliente 4 tiene 0 suscripciones en total
+[25-May-2026 16:16:14 America/Tegucigalpa] DEBUG ADD: Detalles: 
+[25-May-2026 16:16:14 America/Tegucigalpa] Plan recibido como ID: 2
+[25-May-2026 16:16:14 America/Tegucigalpa] Nombre del plan obtenido de tbl_periodo (formato título): 'Bitdefender'
+[25-May-2026 16:16:14 America/Tegucigalpa] Suscripción - Plan: Bitdefender, Precio frontend: 216000, Precio final: 216000, Duración frontend: 360, Duración final: 360
+[25-May-2026 16:16:14 America/Tegucigalpa] Registro en tbl_plan actualizado - ID: 2, Nombre: Bitdefender, Éxito: SI
+[25-May-2026 16:16:14 America/Tegucigalpa] Usando fecha_fin del frontend: 2027-05-20
+[25-May-2026 16:16:21 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 16:16:21 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779747381824
+    [_] => 1779747381701
+)
+
+[25-May-2026 16:16:21 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 16:16:21 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 16:16:21 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 16:16:21 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 16:16:21 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 2
+[25-May-2026 16:16:21 America/Tegucigalpa] Total de registros (count): 1
+[25-May-2026 16:16:21 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 16:16:21 America/Tegucigalpa] Resultado paginación: {"total":1,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 16:16:21 America/Tegucigalpa] Cantidad de registros devueltos: 2
+[25-May-2026 16:16:21 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 16:16:22 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":1,"nombre_plan":"Mcafee","dias":30,"precio_base":500},{"id_plan":2,"nombre_plan":"Bitdefender","dias":30,"precio_base":600},{"id_plan":3,"nombre_plan":"Kaspersky","dias":30,"precio_base":0}]
+[25-May-2026 16:47:30 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 265
+[25-May-2026 16:47:30 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 265
+[25-May-2026 16:47:30 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 299
+[25-May-2026 16:47:30 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:299
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(299): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 299
+[25-May-2026 16:50:38 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 266
+[25-May-2026 16:50:38 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 266
+[25-May-2026 16:50:38 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 300
+[25-May-2026 16:50:38 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:300
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(300): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 300
+[25-May-2026 16:51:27 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:27 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:27 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 16:51:27 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 16:51:33 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:33 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:33 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 16:51:33 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 16:51:38 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 16:51:38 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779749498507
+    [_] => 1779749497199
+)
+
+[25-May-2026 16:51:38 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 16:51:38 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 16:51:38 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 16:51:38 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 16:51:38 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 2
+[25-May-2026 16:51:38 America/Tegucigalpa] Total de registros (count): 1
+[25-May-2026 16:51:38 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 16:51:38 America/Tegucigalpa] Resultado paginación: {"total":1,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 16:51:38 America/Tegucigalpa] Cantidad de registros devueltos: 2
+[25-May-2026 16:51:38 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 16:51:39 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":1,"nombre_plan":"Mcafee","dias":30,"precio_base":500},{"id_plan":2,"nombre_plan":"Bitdefender","dias":30,"precio_base":600},{"id_plan":3,"nombre_plan":"Kaspersky","dias":30,"precio_base":0}]
+[25-May-2026 16:51:48 America/Tegucigalpa] === INICIO CONSULTA PAGINACIÓN ===
+[25-May-2026 16:51:48 America/Tegucigalpa] Parámetros recibidos: Array
+(
+    [action] => list
+    [page] => 1
+    [pageSize] => 10
+    [client] => 
+    [plan] => 
+    [status] => 
+    [from] => 
+    [to] => 
+    [_t] => 1779749508945
+    [_] => 1779749508790
+)
+
+[25-May-2026 16:51:48 America/Tegucigalpa] Paginación - Página: 1, Tamaño: 10, Offset: 0
+[25-May-2026 16:51:48 America/Tegucigalpa] Filtros - Client: '', Plan: '', Status: '', From: '', To: ''
+[25-May-2026 16:51:49 America/Tegucigalpa] SQL final construida: SELECT s.id_suscripcion, s.id_cliente, c.nombre_cliente, 
+        s.id_plan,
+        tp.nombre_plan as plan_nombre,
+        per.nombre_periodo as periodo_nombre,
+        CASE 
+            WHEN tp.nombre_plan IS NOT NULL THEN tp.nombre_plan
+            WHEN per.nombre_periodo IS NOT NULL THEN CONCAT(UPPER(SUBSTRING(per.nombre_periodo, 1, 1)), LOWER(SUBSTRING(per.nombre_periodo, 2)))
+            ELSE 'Sin plan' 
+        END as nombre_plan, 
+        s.fecha_inicio, s.fecha_fin, s.precio, es.nombre_estado,
+               CASE WHEN pago.id_pago IS NOT NULL THEN 1 ELSE 0 END as pagado,
+               DATEDIFF(s.fecha_fin, CURDATE()) as dias_restantes,
+               CASE 
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) > 0 THEN CONCAT('Quedan ', DATEDIFF(s.fecha_fin, CURDATE()), ' días')
+                 WHEN DATEDIFF(s.fecha_fin, CURDATE()) = 0 THEN 'Vence hoy'
+                 ELSE CONCAT('Vencida hace ', ABS(DATEDIFF(s.fecha_fin, CURDATE())), ' días')
+               END as estado_tiempo
+        FROM tbl_suscripcion s
+            JOIN tbl_cliente c ON c.id_cliente = s.id_cliente
+            LEFT JOIN tbl_plan tp ON tp.id_plan = s.id_plan
+            LEFT JOIN tbl_periodo per ON per.id_periodo = s.id_plan
+            LEFT JOIN tbl_estado_suscripcion es ON es.id_estadoSuscripcion = s.id_estadoSuscripcion
+            LEFT JOIN tbl_pago pago ON pago.id_suscripcion = s.id_suscripcion
+            WHERE 1=1 ORDER BY s.id_suscripcion ASC LIMIT ? OFFSET ?
+[25-May-2026 16:51:49 America/Tegucigalpa] Binding params: Array
+(
+    [0] => 10
+    [1] => 0
+)
+ with types: ii
+[25-May-2026 16:51:49 America/Tegucigalpa] Consulta ejecutada - Registros obtenidos: 2
+[25-May-2026 16:51:49 America/Tegucigalpa] Total de registros (count): 1
+[25-May-2026 16:51:49 America/Tegucigalpa] === RESULTADO FINAL ===
+[25-May-2026 16:51:49 America/Tegucigalpa] Resultado paginación: {"total":1,"page":1,"pageSize":10,"totalPages":1,"hasNextPage":false,"hasPreviousPage":false}
+[25-May-2026 16:51:49 America/Tegucigalpa] Cantidad de registros devueltos: 2
+[25-May-2026 16:51:49 America/Tegucigalpa] === FIN CONSULTA PAGINACIÓN ===
+[25-May-2026 16:51:49 America/Tegucigalpa] Planes obtenidos de tbl_periodo (formato título): [{"id_plan":1,"nombre_plan":"Mcafee","dias":30,"precio_base":500},{"id_plan":2,"nombre_plan":"Bitdefender","dias":30,"precio_base":600},{"id_plan":3,"nombre_plan":"Kaspersky","dias":30,"precio_base":0}]
+[25-May-2026 16:51:53 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:53 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 16:51:53 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 16:51:53 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:00:40 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:00:40 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:00:40 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:00:40 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:01:15 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:01:15 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:01:15 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:01:15 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:01:21 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:01:21 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:01:21 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:01:21 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:02:40 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:02:40 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:02:40 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:02:40 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:02:48 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:02:48 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:02:48 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:02:48 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:15:49 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:15:49 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:15:49 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 305
+[25-May-2026 17:15:49 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:305
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(305): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 305
+[25-May-2026 17:16:41 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:16:42 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:16:42 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 305
+[25-May-2026 17:16:42 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:305
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(305): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 305
+[25-May-2026 17:19:45 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:19:46 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:19:46 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 316
+[25-May-2026 17:19:46 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:316
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(316): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 316
+[25-May-2026 17:22:16 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:22:17 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:22:17 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 318
+[25-May-2026 17:22:17 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:318
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(318): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 318
+[25-May-2026 17:28:10 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:28:10 America/Tegucigalpa] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 267
+[25-May-2026 17:28:10 America/Tegucigalpa] PHP Warning:  Undefined variable $planes in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
+[25-May-2026 17:28:10 America/Tegucigalpa] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php:301
+Stack trace:
+#0 C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php(301): array_keys(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\src\vistasdelprograma\menuprincipal.php on line 301
