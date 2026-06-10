@@ -1,0 +1,241 @@
+# Code Citations
+
+## License: unknown
+https://github.com/damilliondamil/laravel-news-relasi/blob/c6dcabd4fd9c21ecf200050a36e9ac8987c43643/resources/views/layouts/app.blade.php
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: unknown
+https://github.com/kartik-v/bootstrap-popover-x/blob/879def62529797833e10885b6e77864e83e9e240/examples/bs4.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: unknown
+https://github.com/sergueik/springboot_study/blob/7ac1cdc05ca3e4841aa03e472c8fbfb02f04ce8a/basic-fullcycle-java17/src/main/resources/templates/StudentRegister.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: unknown
+https://github.com/Kryuski/pas2js-for-delphi/blob/9cfdf70eb6c6e8f9f154d73f53dd26db9203ebed/demo/websockets/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: Apache-2.0
+https://github.com/uncertainco/uncertainco.github.io/blob/b1c9707e8eb0a62c6c99d84b5208377bac6dbea8/careers.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: MIT
+https://github.com/sag0r/sag0r.github.io/blob/1ab20f298c01fdc8aa561a7e8b9f8f0973a009f1/menu-PoC/tree-view.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: unknown
+https://github.com/sayinmehmet47/jQueryRestaurantPage/blob/d60d4384403a628f63e08846a410622b3d9093d4/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: unknown
+https://github.com/Earthyy/mini-project/blob/546ed1f4fbf85686af46ac36fac09d5f66b03d77/public/loop%20while.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+```
+
+
+## License: Apache-2.0
+https://github.com/uncertainco/uncertainco.github.io/blob/b1c9707e8eb0a62c6c99d84b5208377bac6dbea8/careers.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/Earthyy/mini-project/blob/546ed1f4fbf85686af46ac36fac09d5f66b03d77/public/loop%20while.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/damilliondamil/laravel-news-relasi/blob/c6dcabd4fd9c21ecf200050a36e9ac8987c43643/resources/views/layouts/app.blade.php
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/kartik-v/bootstrap-popover-x/blob/879def62529797833e10885b6e77864e83e9e240/examples/bs4.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/sergueik/springboot_study/blob/7ac1cdc05ca3e4841aa03e472c8fbfb02f04ce8a/basic-fullcycle-java17/src/main/resources/templates/StudentRegister.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/Kryuski/pas2js-for-delphi/blob/9cfdf70eb6c6e8f9f154d73f53dd26db9203ebed/demo/websockets/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: MIT
+https://github.com/sag0r/sag0r.github.io/blob/1ab20f298c01fdc8aa561a7e8b9f8f0973a009f1/menu-PoC/tree-view.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/sayinmehmet47/jQueryRestaurantPage/blob/d60d4384403a628f63e08846a410622b3d9093d4/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/kartik-v/bootstrap-popover-x/blob/879def62529797833e10885b6e77864e83e9e240/examples/bs4.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/Kryuski/pas2js-for-delphi/blob/9cfdf70eb6c6e8f9f154d73f53dd26db9203ebed/demo/websockets/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: MIT
+https://github.com/sag0r/sag0r.github.io/blob/1ab20f298c01fdc8aa561a7e8b9f8f0973a009f1/menu-PoC/tree-view.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: Apache-2.0
+https://github.com/uncertainco/uncertainco.github.io/blob/b1c9707e8eb0a62c6c99d84b5208377bac6dbea8/careers.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/sayinmehmet47/jQueryRestaurantPage/blob/d60d4384403a628f63e08846a410622b3d9093d4/index.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/damilliondamil/laravel-news-relasi/blob/c6dcabd4fd9c21ecf200050a36e9ac8987c43643/resources/views/layouts/app.blade.php
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/sergueik/springboot_study/blob/7ac1cdc05ca3e4841aa03e472c8fbfb02f04ce8a/basic-fullcycle-java17/src/main/resources/templates/StudentRegister.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
+
+## License: unknown
+https://github.com/Earthyy/mini-project/blob/546ed1f4fbf85686af46ac36fac09d5f66b03d77/public/loop%20while.html
+
+```
+link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></
+```
+
